@@ -10,15 +10,15 @@
 		<hr>
 		<p> <h2> <b>  PERSONAL INFORMATION: </b> </h2> </p> 
 		<hr>
-	<P> <b> Name		: </b> Nestor S. Mayagma Jr. </P> 	
-	<P> <b> Address		: </b> B-30  </P>
+	<P> <b> Name		: </b>  </P> 	
+	<P> <b> Address		: </b>   </P>
 	<P> <b> Email		: </b>   </P>
 	<P> <b> Contact no.	: </b> </P>
 	<P> <b> Age			: </b>  </P>
-	<P> <b> Birthdate	: </b> October 15,1999  </P>
-	<P> <b> Religion	: </b> Born-Again Christian </P>
-	<P> <b> Nationality	: </b> Filipino </P>
-	<P> <b> Civil Status: </b> Single </P>
+	<P> <b> Birthdate	: </b>  </P>
+	<P> <b> Religion	: </b>  </P>
+	<P> <b> Nationality	: </b>  </P>
+	<P> <b> Civil Status: </b> </P>
 <hr>
 		<p> <h2> <b> EDUCATIONAL ATTAINMENT: </b> </h2> </p> 
 		<hr>
@@ -29,10 +29,10 @@
 <hr>
 		<p> <h2> <b>  FAMILY BACKGROUND: </b> </h2> </p> 
 	<hr>
-	<P> <b> Mother's Name: </b> Lilia S. Mayagma  </P>
-	<P> <b> Occupation	 : </b> Housewife  </P>
-	<P> <b> Address	 : </b> Block 30 Lot 3 Verde heights sub. Brangay Gaya-Gaya, City of San Jose Del Monte Bulacan  </P>
-	<P> <b> Father's Name: </b> Nestor S. Mayagma </P>
+	<P> <b> Mother's Name: </b>   </P>
+	<P> <b> Occupation	 : </b>  </P>
+	<P> <b> Address	 : </b>   </P>
+	<P> <b> Father's Name: </b>  </P>
 
 
 

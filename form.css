@@ -1,0 +1,142 @@
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+body{
+    /*background-image: url('W.jpg');*/
+}
+
+
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.act{
+border:hidden;
+border-radius: 3px;
+border-width: 5px;
+background-color: rgba(255, 255, 255, 0.267);
+padding: 40px;
+margin-left:10px;
+margin-right:10px;
+box-shadow: 3px 3px 5px 3px #ffffffa8;
+
+}
+.act h1, h2, p, a{
+    color:whitesmoke;
+    font-family: bookantiqua;
+
+}
+
+.act a{
+    color:white;
+    text-decoration:none;
+}
+
+
+.act1{
+border-radius: 5px;
+background-color: rgba(0, 0, 0, 0.082);
+padding: 40px;
+}
+
+.act2{
+border-radius: 5px;
+background-color: rgba(0, 0, 0, 0.082);
+background-image: url('white_Dev.jpg');
+padding: 40px;
+background-size:cover;
+border:groove;
+margin-left:20px;
+margin-right: 20px;
+box-shadow: 3px 3px 5px 5px #464646;
+
+
+}
+
+.act2 h2, p{
+    color:black;
+    text-decoration:none;
+}
+.LinkA{
+    display: inline-block;
+  position: relative;
+  color: black;
+  text-decoration:none;
+}
+.LinkA:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #0087ca;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .LinkA:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+
+.act3{
+border:outset;
+background-color: rgb(131, 131, 131);
+padding: 30px;
+margin-left:20px;
+margin-right:20px;
+box-shadow: 3px 3px 5px 5px #00000080;
+}
+
+.act3Table{
+    float:center;
+    border:groove;
+    width:850;
+    height:450;
+    
+}
+
+txtarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+
+tableBG{
+    border-radius: 5px;
+    background-color:  white;
+    padding: 100px;
+
+}
+act1{
+    border-radius: 5px;
+    background-color:  white;
+    border: groove;
+    padding: 100px;
+}
+
+
+@viewport{
+    zoom:1.0;
+    width-extend-to-zoom;
+}
+@-ms-viewport{
+    width:extend-to-zoom;
+    zoom: 1.0;
+}
